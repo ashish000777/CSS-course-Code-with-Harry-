@@ -1,2 +1,2 @@
-# CSS-course-Code-with-Harry-
+# CSS
 CSS concepts and hands-on practice
